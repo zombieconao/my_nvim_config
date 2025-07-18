@@ -8,6 +8,11 @@ NOTE!!!!!!!
 this it not my config, 
 i just copy from someone and custom it for it more comfortable with me,
 
+Install plugins:
+In your nvim (normal mode), type:
+
+:PackerSync
+
 I have installed pynvim with these command:
 
 1. python -m venv ~/.venvs/nvim
