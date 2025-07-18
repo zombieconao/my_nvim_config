@@ -1,4 +1,4 @@
-# nvim_someone-s_comfig
+# my_nvim_config
 
 this is someone's nvim config,
 i just upload to github to save these config for like... if i reinstall my os, i can git clone it
